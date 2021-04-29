@@ -1,0 +1,31 @@
+footer ul {
+  list-style: none;
+  display: flex;
+  margin: 1em 0;
+}
+footer ul li a {
+  padding: 1em;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.904);
+  transition: 100ms;
+}
+footer ul li a:hover {
+  color: var(--primary);
+}
+
+footer {
+  width: 100%;
+  background: black;
+  color: #fff;
+  display: grid;
+  place-items: center;
+  padding: 0.1em;
+  font-size: 1.2rem;
+}
+body {
+  min-height: 100vh;
+}
+.sticky-footer {
+  position: sticky;
+  top: 100%;
+}
