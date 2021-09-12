@@ -4,5 +4,4 @@
             <li><a>Apurba Ganguly</a></li>
             <li><a>Ankita Singh</a></li>
         </ul>
-        <!-- <p> © Copyright Smashtheshell 2020.</p> -->
 </footer>
